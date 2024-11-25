@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sterepandopalcevsto
-- 👀 I’m interested in AI, games, alpha and neta version, Material You
+- 👀 I’m interested in AI, games, alpha and beta version, Material You
 - 🌱 I’m currently learning Google gemini and MD3
 - 💞️ I’m looking to collaborate on in beta project 
 - 📫 How to reach me @sterepando <- telegramm
